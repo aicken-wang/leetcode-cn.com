@@ -1,0 +1,6 @@
+./build*
+./bin/*
+./vscode/*
+./.vs/*
+.D_Store*
+.idea/*
